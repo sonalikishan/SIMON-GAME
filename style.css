@@ -1,0 +1,68 @@
+body {
+  text-align: center;
+  background-color: #CE5DEA;
+  background-image: url("https://media0.giphy.com/media/QvMybzkScTcqHJiZx0/giphy.gif?cid=ecf05e47ed0vkv5fqcczt2kd5bhdg69kwtotjn85khm1wzxu&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid #020B36;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.eros{
+font-family: 'Press Start 2P', cursive;
+font-size: 1rem;
+margin:  6%;
+color: yellow;
+background-color: #43507B;
+background-image: url("https://media0.giphy.com/media/QvMybzkScTcqHJiZx0/giphy.gif?cid=ecf05e47ed0vkv5fqcczt2kd5bhdg69kwtotjn85khm1wzxu&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
+
+footer{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  color: #FEF2BF;
+}
